@@ -1,6 +1,6 @@
 click==7.1.2
 Werkzeug==1.0.1
-certifi==2020.12.24
+certifi==2019.11.28
 Flask==1.1.2
 gunicorn==19.9.0
 itsdangerous==1.1.0
